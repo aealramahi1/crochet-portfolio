@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  margin-left: 75px;
+  text-align: left;
+  color: #ffffff;
+}
+
+nav {
+
+}
+
+.vertically-centered {
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%);
+}
